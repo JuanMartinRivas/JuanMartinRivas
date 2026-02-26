@@ -21,7 +21,7 @@ I build clean, maintainable web apps with a focus on front-end UX and reliable b
 ### Helicopteros VIP - helicopter booking web app
 
 - Tech: React, Next.js, Firebase (Auth + Firestore), Stripe (payments)
-- Demo: https://helis-vip.vercel.app/ - Book helicopters like a VIP.
+- Demo: https://www.helicopterosvip.com - Book helicopters like a VIP.
 - Highlights: layered architecture, reusable booking flow, responsive UI.
 
 <div align="center">
